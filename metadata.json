@@ -1,0 +1,8 @@
+{
+  "name": "SANATEL - Customer Relationship Expert",
+  "description": "Centre d'appel et d'externalisation de la relation client à Oujda. Service client, télévente, assistance technique et BPO au 8 Rue Khan Youness El Qods, Oujda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
